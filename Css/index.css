@@ -1,0 +1,10 @@
+body {
+    background-image: url("../Img/2.jpg");
+    background-size: cover;
+}
+
+.backForm{
+    padding: 20px 15px;
+    background-color: rgba(100, 100, 100, 0.1);
+    border-radius: 5px;
+}

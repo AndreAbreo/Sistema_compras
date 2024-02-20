@@ -7,4 +7,21 @@ body {
     padding: 20px 15px;
     background-color: rgba(100, 100, 100, 0.1);
     border-radius: 5px;
+    width: 50%;
+}
+
+@media (max-width: 500px) {
+    /* Estilos específicos para pantallas de hasta 500px */
+    /* Aquí puedes agregar estilos específicos para pantallas más pequeñas */
+    body {
+        background-image: url("https://raw.githubusercontent.com/AndreAbreo/Sistema_compras/main/Img/2.jpg");
+        background-size: auto;
+    }
+    .backForm{
+        padding: 20px 15px;
+        background-color: rgba(100, 100, 100, 0.1);
+        border-radius: 5px;
+        width: 100%;
+    }
+
 }
